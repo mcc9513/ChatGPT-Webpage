@@ -14,4 +14,4 @@ Design Requirements:
 Use of external CSS for styling.
 The design should be responsive and visually appealing.
 
-The AI responded with both HTML and CSS code, 
+The AI responded with both HTML and CSS code, outlining and detailing a webpage called Ramen World that has several recipes for ramen noodle soup. 
